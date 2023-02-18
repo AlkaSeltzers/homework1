@@ -1,2 +1,4 @@
+What is the difference between a merge and a rebase?
+
 git merge points the main branch to the most recently updated feature branch
 git rebase, rewrites the main branch by adding all the nodes from the feature branch to the main branch.
