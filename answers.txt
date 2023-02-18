@@ -1,3 +1,7 @@
+What is a remote repository?
+
+Remote repositories are versions of your repository that is hosted on the internet.
+
 What is the difference between a merge and a rebase?
 
 git merge points the main branch to the most recently updated feature branch
